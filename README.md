@@ -4,9 +4,19 @@ This Project is for AutoControlZoom for older Persons to be able to enjoy ZoomMe
 I started this Project for my Father in Law, that he could join the Meetings of Jehovas Witnesses by Zoom.
 He is 90 Years old, and has only some Computer Knowledge, and is not longer able to leave his House.
 
-But to give him the ability to join the Zoom Meetings, the Zoom Start has to run without any Action by him.
+But to give him the ability to join the Zoom Meetings, Zoom has to be started without any Action by him.
 
-## add 
-what is used
-how to setup zoom and pc
+# Requirements
+Software
 
+To use this script you need Autoit > https://www.autoitscript.com/site/autoit/downloads/
+- Just open the .au3 file with the AutoIt Editor. 
+- Complete the file with your Login Credentials and compile it.
+- Comment the not needed lines for your Setting
+You could run the .exe File on the Computer you want to autostart with zoom.
+
+Hardware
+
+The PC should be started automatically by the Bios. Most Bios has the option to run a Machine by user Spezified Time.
+Put the created .exe File into autostart, it will run everytime you start the PC.
+The check at the beginning will only run the file is the weekday and time are correct to start the Zoom Meeting.
