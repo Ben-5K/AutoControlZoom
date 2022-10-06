@@ -17,6 +17,7 @@ You could run the .exe File on the Computer you want to autostart with zoom.
 You could place a shortcut on the desktop for user with basic experience.
 
 The script runs also a Command-Line after starting Zoom, to ShutDown the PC after 9000 Seconds (150 Minutes or 2.5 Hours).
+
 And a freeware is used to lock Keyboard and Mouse, to prevent the User from klicking around and switching Microphone on and off...  :-)
 If you want to use that as well, you need to download it from here > https://keyfreeze.com/ and install it.
 
@@ -28,4 +29,4 @@ The check at the beginning will only run the file is the weekday and time are co
 
 Questions / Bugs / Suggestions
 
-If you have any Questions, Bugs or Suggestions please send a mail to 4grauwolf (a t) gmail (d ot) com
+If you have any Questions, Bugs or Suggestions please send a mail to b (dot) kohberg (a t) gmail (d ot) com
