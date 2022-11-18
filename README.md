@@ -19,7 +19,8 @@ You could place a shortcut on the desktop for user with basic experience.
 The script runs also a Command-Line after starting Zoom, to ShutDown the PC after 9000 Seconds (150 Minutes or 2.5 Hours).
 
 And a freeware is used to lock Keyboard and Mouse, to prevent the User from klicking around and switching Microphone on and off...  :-)
-If you want to use that as well, you need to download it from here > https://keyfreeze.com/ and install it.
+If you want to use that as well, you need to download it from here > https://www.sordum.org/?s=KeyFreeze and install it.
+Attention! This Name is used by other sides to deploy crapware as well. The URL sordum.org is the Developer of the Software i use.
 
 Hardware
 
