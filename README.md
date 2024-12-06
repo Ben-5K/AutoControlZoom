@@ -13,6 +13,7 @@ To use this script you need Autoit > https://www.autoitscript.com/site/autoit/do
 - Just open the .au3 file with the AutoIt Editor. 
 - Complete the file with your Login Credentials and compile it.
 - Comment the not needed lines for your Setting (add # bevor a line)
+  
 You could run the .exe File on the Computer you want to autostart with zoom.
 You could place a shortcut on the desktop for user with basic experience.
 
