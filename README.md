@@ -2,7 +2,7 @@
 This Project is for AutoControlZoom for older Persons to be able to enjoy ZoomMeetings without any Actions.
 
 I started this Project for my Father in Law, that he could join the Meetings of Jehovas Witnesses by Zoom.
-He is 90 Years old, and has only some Computer Knowledge, and is not longer able to leave his House.
+At the time, this script was done, He was 90 Years old, and has only some Computer Knowledge, and was not longer able to leave his House.
 
 But to give him the ability to join the Zoom Meetings, Zoom has to be started without any Action by him.
 
@@ -12,7 +12,7 @@ Software
 To use this script you need Autoit > https://www.autoitscript.com/site/autoit/downloads/
 - Just open the .au3 file with the AutoIt Editor. 
 - Complete the file with your Login Credentials and compile it.
-- Comment the not needed lines for your Setting
+- Comment the not needed lines for your Setting (add # bevor a line)
 You could run the .exe File on the Computer you want to autostart with zoom.
 You could place a shortcut on the desktop for user with basic experience.
 
